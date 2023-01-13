@@ -4,7 +4,7 @@ A starter pack to build JavaScript applications using standards from ES2015, ES2
 
 ### Version
 
-1.1.0
+1.1.0.0
 
 ## Usage
 
